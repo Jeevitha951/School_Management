@@ -15,11 +15,11 @@ const Homepage = () => {
                 <Grid item xs={12} md={6}>
                     <StyledPaper elevation={3}>
                         <StyledTitle>
-                            Welcome to
+                            EduPulse:  
                             <br />
-                            School Management
+                            Real-time Academic
                             <br />
-                            System
+                            Workflow Integration
                         </StyledTitle>
                         <StyledText>
                             Streamline school management, class organization, and add students and faculty.
